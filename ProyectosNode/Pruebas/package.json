@@ -9,6 +9,6 @@
   "author": "Jordi Valls Pla",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^7.2.2"
+    "mongoose": "^7.2.3"
   }
 }
